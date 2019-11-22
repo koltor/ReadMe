@@ -2,6 +2,7 @@
 Bonne Lecture =)
 
 ![alt text](http://www.unixstickers.com/image/cache/data/stickers/rails/rails-new.sh-600x600.png "Logo Title Text 1")
+![Screenshot](rose.jpeg)
 
 ## Sommaire :
 1. La différence entre un site statique et un site dynamique
